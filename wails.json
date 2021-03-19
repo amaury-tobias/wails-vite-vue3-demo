@@ -1,0 +1,9 @@
+{
+  "name": "wails-demo",
+  "outputfilename": "wails-demo",
+  "html": "main.html",
+  "author": {
+    "name": "amaury-tobias",
+    "email": "amaury.tobiasqr@gmai.com"
+  }
+}
